@@ -6,9 +6,9 @@ GIS Day (November 17) is an international celebration of this scientific framewo
 
 ### List of events
 
-* [GIS and the Ghost Map](#ghost), Nov. 11, 2-3:30 PM ET
-* [Virtual Career Panel](#career), Nov. 12, 1-2 PM ET 
-* [GIS Research Forum](#research), Nov. 17, 11:30 AM - 12:30 PM ET
+* [GIS and the Ghost Map](#ghost), Nov. 11, 2–3:30 pm ET
+* [Virtual Career Panel](#career), Nov. 12, 1–2 pm ET 
+* [GIS Research Forum](#research), Nov. 17, 11:30am–12:30pm ET
 * [Space and Film: Geography as a Major Actor (exhibit)](#film), starting Nov. 8
 
 More information about each event is below.
@@ -17,7 +17,7 @@ More information about each event is below.
 
 ## <a name="ghost"></a>GIS and the Ghost Map
 
-**November 11, 2-3:30pm**\
+**November 11, 2–3:30pm ET**\
 Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 > In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
@@ -28,7 +28,7 @@ Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/
 
 ## <a name="career"></a>Virtual Career Panel 
 
-**November 12, 1-2pm**\
+**November 12, 1–2pm ET**\
 Moderator: **Dr. Roberta De Carvlho** (Urban Studies Program, University of Pittsburgh)
 
 Participants:
@@ -43,7 +43,7 @@ Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122)
 
 ## <a name="research"></a>GIS Research Forum  
 
-**November 17, 11:30am - 12:30pm**\
+**November 17, 11:30am–12:30pm ET**\
 Moderator: **Susan Lucas** (Urban Studies)
 
 Presenters:  
