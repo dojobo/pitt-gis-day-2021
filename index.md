@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+---
+title: "GIS Day 2021 @ Pitt"
+---
 
-You can use the [editor on GitHub](https://github.com/dojobo/pitt-gis-day-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Celebrate GIS Day 2021 at Pitt!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GIS Day (November 17) is an international celebration of this scientific framework often implemented by using software for gathering, analyzing, and visualizing geographic or georeferenced data. GIS enthusiasts from the University of Pittsburgh have organized several exciting events for GIS Day. 
 
-### Markdown
+## GIS and the Ghost Map
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**November 11, 2-3:30pm** 
 
-```markdown
-Syntax highlighted code block
+Presenter: **Dr. Susan Lucas (Urban Studies)**
 
-# Header 1
-## Header 2
-### Header 3
+> In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
 
-- Bulleted
-- List
+Register: https://pitt.libcal.com/event/8088954
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Virtual Career Panel 
 
-[Link](url) and ![Image](src)
-```
+**November 12, 1-2pm**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Online: https://pitt.zoom.us/j/95713642122; Passcode: **761707**
 
-### Jekyll Themes
+Moderator: **Dr. Roberta De Carvlho** (Urban Studies Program, University of Pittsburgh)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dojobo/pitt-gis-day-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Participants:
+* **Kevin Colaizzi**, Senior GIS Analyst at Civil and Environmental Consultants, Inc 
+* **Dr. Williams Castro**, an Analytics and Modeling Manager at Accenture Co., supporting the United States Department of State, whose work involves finding business solutions through enhancement of data storage and analysis, in-house sharing and dissemination of geospatial data, development of tools and applications for sharing within the bureau and with diplomatic missions overseas. 
+* **Sophia Constantine**, a recent graduate from the Urban Studies Program who works as an Associate Transportation Planner at Nelson\Nygaard.             
+* **Ellen Kinnee**, a Geographic Information System Analyst at the University Center for Social & Urban Research, University of Pittsburgh, where she provides GIS support for environmental exposure and qualitative survey research. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## GIS Research Forum  
+
+**November 17, 11:30am - 12:30pm**
+
+Online: https://pitt.zoom.us/j/97957243854 
+
+Moderator: **Susan Lucas** (Urban Studies)
+
+Presenters:  
+
+* **Josh Canon**, Honors College 
+* **Bill Harbert**, Geology and Environmental Science 
+* **Matthew Brahms**, Student, Urban Studies Program 
+* **Anna Baskin**, Student, Honors College 
+
+> In Celebration of GIS Day, the University of Pittsburgh will be hosting a GIS Research Forum with faculty and student presenters. GIS, or Geographic Information Systems, is a tool to analyze, organize, and represent data across geographic space. The Research Forum will showcase different research projects using GIS, from archaeological applications to exploring the relationship between climate change and terrorism. Please join us for the presentations and conversations that will follow. 
+
+
+## Space and Film: Geography as a Major Actor (exhibit) 
+
+Access online after November 8: https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b
+
+Exhibit curator: **Boris Michev**, GIS Librarian at the University of Pittsburgh Library System 
+
+Curator’s statement:
+> The exhibit explores the interrelationship between space and film based on several pictures that vividly illustrate the argument about the utmost importance of geography. We intended to show the opportunities that GIS allows us by creating original or using already existing maps, which tell the story of the film and help us grasp the enormousness of the tasks the characters undertake. We have also tried to introduce a little humor in the whole enterprise by predicting where Mr. Bond will travel in his next movie. Since the Bond analysis was done before the latest film, it will be interesting to see if it has been spot-on or not. 
