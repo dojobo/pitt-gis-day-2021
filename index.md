@@ -22,7 +22,7 @@ Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 > In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
 
-Register: [https://pitt.libcal.com/event/8088954]
+Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/8088954)
 
 ----------
 
@@ -37,7 +37,7 @@ Participants:
 * **Sophia Constantine**, a recent graduate from the Urban Studies Program who works as an Associate Transportation Planner at Nelson\Nygaard.             
 * **Ellen Kinnee**, a Geographic Information System Analyst at the University Center for Social & Urban Research, University of Pittsburgh, where she provides GIS support for environmental exposure and qualitative survey research. 
 
-Online: [https://pitt.zoom.us/j/95713642122]; Passcode: **761707**
+Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122); Passcode: **761707**
 
 ----------
 
@@ -55,7 +55,7 @@ Presenters: 
 
 > In Celebration of GIS Day, the University of Pittsburgh will be hosting a GIS Research Forum with faculty and student presenters. GIS, or Geographic Information Systems, is a tool to analyze, organize, and represent data across geographic space. The Research Forum will showcase different research projects using GIS, from archaeological applications to exploring the relationship between climate change and terrorism. Please join us for the presentations and conversations that will follow. 
 
-Online: [https://pitt.zoom.us/j/97957243854]
+Online: [https://pitt.zoom.us/j/97957243854](https://pitt.zoom.us/j/97957243854)
 
 ----------
 
@@ -66,5 +66,5 @@ Exhibit curator: **Boris Michev**, GIS Librarian at the University of Pittsburgh
 Curator’s statement:
 > The exhibit explores the interrelationship between space and film based on several pictures that vividly illustrate the argument about the utmost importance of geography. We intended to show the opportunities that GIS allows us by creating original or using already existing maps, which tell the story of the film and help us grasp the enormousness of the tasks the characters undertake. We have also tried to introduce a little humor in the whole enterprise by predicting where Mr. Bond will travel in his next movie. Since the Bond analysis was done before the latest film, it will be interesting to see if it has been spot-on or not. 
 
-Access online after November 8: [https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b]
+Access online after November 8: [https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b](https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b)
 
