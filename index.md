@@ -25,6 +25,7 @@ Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/8088954)
 
+----------
 
 ## <a name="career"></a>Virtual Career Panel 
 
@@ -40,6 +41,7 @@ Participants:
 * **Sophia Constantine**, a recent graduate from the Urban Studies Program who works as an Associate Transportation Planner at Nelson\Nygaard.             
 * **Ellen Kinnee**, a Geographic Information System Analyst at the University Center for Social & Urban Research, University of Pittsburgh, where she provides GIS support for environmental exposure and qualitative survey research. 
 
+----------
 
 ## <a name="research"></a>GIS Research Forum  
 
@@ -58,6 +60,7 @@ Presenters: 
 
 > In Celebration of GIS Day, the University of Pittsburgh will be hosting a GIS Research Forum with faculty and student presenters. GIS, or Geographic Information Systems, is a tool to analyze, organize, and represent data across geographic space. The Research Forum will showcase different research projects using GIS, from archaeological applications to exploring the relationship between climate change and terrorism. Please join us for the presentations and conversations that will follow. 
 
+----------
 
 ## <a name="film"></a>Space and Film: Geography as a Major Actor (exhibit) 
 
