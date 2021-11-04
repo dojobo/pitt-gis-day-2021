@@ -6,10 +6,10 @@ GIS Day (November 17) is an international celebration of this scientific framewo
 
 ### List of events
 
-* [GIS and the Ghost Map](#ghost), Nov. 11, 2-3:30
-* [Virtual Career Panel](#career), Nov. 11, 2-3:30 
-* [GIS Research Forum](#research), Nov. 11, 2-3:30
-* [Space and Film: Geography as a Major Actor (exhibit)](#film), Nov. 11, 2-3:30
+* [GIS and the Ghost Map](#ghost), Nov. 11, 2-3:30 PM ET
+* [Virtual Career Panel](#career), Nov. 12, 1-2 PM ET 
+* [GIS Research Forum](#research), Nov. 17, 11:30 AM - 12:30 PM ET
+* [Space and Film: Geography as a Major Actor (exhibit)](#film), starting Nov. 8
 
 More information about each event is below.
 
