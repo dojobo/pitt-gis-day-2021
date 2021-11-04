@@ -17,8 +17,7 @@ More information about each event is below.
 
 ## <a name="ghost"></a>GIS and the Ghost Map
 
-**November 11, 2-3:30pm** 
-
+**November 11, 2-3:30pm**\
 Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 > In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
@@ -29,8 +28,7 @@ Register: [https://pitt.libcal.com/event/8088954]
 
 ## <a name="career"></a>Virtual Career Panel 
 
-**November 12, 1-2pm**
-
+**November 12, 1-2pm**\
 Moderator: **Dr. Roberta De Carvlho** (Urban Studies Program, University of Pittsburgh)
 
 Participants:
@@ -45,8 +43,7 @@ Online: [https://pitt.zoom.us/j/95713642122]; Passcode: **761707**
 
 ## <a name="research"></a>GIS Research Forum  
 
-**November 17, 11:30am - 12:30pm**
-
+**November 17, 11:30am - 12:30pm**\
 Moderator: **Susan Lucas** (Urban Studies)
 
 Presenters:  
