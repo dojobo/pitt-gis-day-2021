@@ -1,10 +1,17 @@
 ---
-title: "Celebrate GIS Day 2021 at Pitt!"
+title: "GIS Day 2021 at Pitt"
 ---
 
 GIS Day (November 17) is an international celebration of this scientific framework often implemented by using software for gathering, analyzing, and visualizing geographic or georeferenced data. GIS enthusiasts from the University of Pittsburgh have organized several exciting events for GIS Day. 
 
-## GIS and the Ghost Map
+### List of events
+
+* [GIS and the Ghost Map](#ghost), Nov. 11, 2-3:30
+* [Virtual Career Panel](#career), Nov. 11, 2-3:30 
+* [GIS Research Forum](#research), Nov. 11, 2-3:30
+* [Space and Film: Geography as a Major Actor (exhibit)](#film), Nov. 11, 2-3:30
+
+## <a name="ghost"></a>GIS and the Ghost Map
 
 **November 11, 2-3:30pm** 
 
@@ -15,7 +22,7 @@ Presenter: **Dr. Susan Lucas (Urban Studies)**
 Register: https://pitt.libcal.com/event/8088954
 
 
-## Virtual Career Panel 
+## <a name="career"></a>Virtual Career Panel 
 
 **November 12, 1-2pm**
 
@@ -30,7 +37,7 @@ Participants:
 * **Ellen Kinnee**, a Geographic Information System Analyst at the University Center for Social & Urban Research, University of Pittsburgh, where she provides GIS support for environmental exposure and qualitative survey research. 
 
 
-## GIS Research Forum  
+## <a name="research"></a>GIS Research Forum  
 
 **November 17, 11:30am - 12:30pm**
 
@@ -48,7 +55,7 @@ Presenters: 
 > In Celebration of GIS Day, the University of Pittsburgh will be hosting a GIS Research Forum with faculty and student presenters. GIS, or Geographic Information Systems, is a tool to analyze, organize, and represent data across geographic space. The Research Forum will showcase different research projects using GIS, from archaeological applications to exploring the relationship between climate change and terrorism. Please join us for the presentations and conversations that will follow. 
 
 
-## Space and Film: Geography as a Major Actor (exhibit) 
+## <a name="film"></a>Space and Film: Geography as a Major Actor (exhibit) 
 
 Access online after November 8: https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b
 
