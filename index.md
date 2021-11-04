@@ -1,8 +1,6 @@
 ---
-title: "GIS Day 2021 @ Pitt"
+title: "Celebrate GIS Day 2021 at Pitt!"
 ---
-
-# Celebrate GIS Day 2021 at Pitt!
 
 GIS Day (November 17) is an international celebration of this scientific framework often implemented by using software for gathering, analyzing, and visualizing geographic or georeferenced data. GIS enthusiasts from the University of Pittsburgh have organized several exciting events for GIS Day. 
 
