@@ -23,7 +23,7 @@ Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 > In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
 
-Register: https://pitt.libcal.com/event/8088954
+Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/8088954)
 
 
 ## <a name="career"></a>Virtual Career Panel 
@@ -45,7 +45,7 @@ Participants:
 
 **November 17, 11:30am - 12:30pm**
 
-Online: https://pitt.zoom.us/j/97957243854 
+Online: [https://pitt.zoom.us/j/97957243854](https://pitt.zoom.us/j/97957243854)
 
 Moderator: **Susan Lucas** (Urban Studies)
 
@@ -61,7 +61,7 @@ Presenters: 
 
 ## <a name="film"></a>Space and Film: Geography as a Major Actor (exhibit) 
 
-Access online after November 8: https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b
+Access online after November 8: [https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b](https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b)
 
 Exhibit curator: **Boris Michev**, GIS Librarian at the University of Pittsburgh Library System 
 
