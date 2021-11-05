@@ -24,6 +24,8 @@ Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/8088954)
 
+<img src="snow-map-1092.jpg" alt="Detail of a map of the London cholera epidemic of 1854 by John Snow" style="max-width: 100%; border: 1px solid black;">
+
 ----------
 
 ## <a name="career"></a>Virtual Career Panel 
