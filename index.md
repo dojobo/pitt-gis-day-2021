@@ -6,10 +6,10 @@ GIS Day (November 17) is an international celebration of this scientific framewo
 
 ### List of events
 
-* [GIS and the Ghost Map](#ghost), Nov. 11, 2–3:30 pm ET
-* [Virtual Career Panel](#career), Nov. 12, 1–2 pm ET 
-* [GIS Research Forum](#research), Nov. 17, 11:30am–12:30pm ET
-* [Space and Film: Geography as a Major Actor (exhibit)](#film), starting Nov. 8
+* [GIS and the Ghost Map](#ghost), Thurs Nov. 11, 2–3:30 pm ET
+* [Virtual Career Panel](#career), Fri Nov. 12, 1–2 pm ET 
+* [GIS Research Forum](#research), Wed Nov. 17, 11:30am–12:30pm ET
+* [Space and Film: Geography as a Major Actor (exhibit)](#film), starting Mon Nov. 8
 
 More information about each event is below.
 
@@ -17,7 +17,7 @@ More information about each event is below.
 
 ## <a name="ghost"></a>GIS and the Ghost Map
 
-**November 11, 2–3:30pm ET**\
+**Thursday, November 11, 2–3:30pm ET**\
 Presenter: **Dr. Susan Lucas (Urban Studies)**
 
 > In this hands-on workshop participants will use easy to understand spatial statistics to explore historical data on a cholera epidemic that occurred in Soho, London in 1854.  In his now famous analysis of the distribution of cholera deaths around Soho's Broad Street pump, John Snow used a map of cholera to convince city officials that the water supplied to the Broad Street pump was the cause of the cholera epidemic.  In this workshop participants will use georeferenced data on cholera deaths from 1854 to explore point pattern analysis and basic spatial statistics in ArcMap. 
@@ -30,7 +30,7 @@ Register: [https://pitt.libcal.com/event/8088954](https://pitt.libcal.com/event/
 
 ## <a name="career"></a>Virtual Career Panel 
 
-**November 12, 1–2pm ET**\
+**Friday, November 12, 1–2pm ET**\
 Moderator: **Dr. Roberta De Carvlho** (Urban Studies Program, University of Pittsburgh)
 
 Participants:
@@ -47,7 +47,7 @@ Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122)
 
 ## <a name="research"></a>GIS Research Forum  
 
-**November 17, 11:30am–12:30pm ET**\
+**Monday, November 17, 11:30am–12:30pm ET**\
 Moderator: **Susan Lucas** (Urban Studies)
 
 Presenters:  
@@ -73,5 +73,5 @@ Exhibit curator: **Boris Michev**, GIS Librarian at the University of Pittsburgh
 Curator’s statement:
 > The exhibit explores the interrelationship between space and film based on several pictures that vividly illustrate the argument about the utmost importance of geography. We intended to show the opportunities that GIS allows us by creating original or using already existing maps, which tell the story of the film and help us grasp the enormousness of the tasks the characters undertake. We have also tried to introduce a little humor in the whole enterprise by predicting where Mr. Bond will travel in his next movie. Since the Bond analysis was done before the latest film, it will be interesting to see if it has been spot-on or not. 
 
-Access online after November 8: [https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b](https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b)
+Access online after Monday, November 8: [StoryMap](https://storymaps.arcgis.com/stories/5f1a9c2347424a8e927b31fedf483b4b)
 
