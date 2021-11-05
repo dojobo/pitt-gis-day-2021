@@ -62,7 +62,7 @@ Presenters: 
 Online: [https://pitt.zoom.us/j/97957243854](https://pitt.zoom.us/j/97957243854)
 
 <img src="pgh1872_1092.jpg" alt="Desaturated detail of an 1872 map of Pittsburgh" style="max-width: 100%; border: 1px solid black !important;">\
-_Image: Desatured detail of the index map from the 1872 Atlas of the cities of Pittsburgh, Allegheny, and the adjoining boroughs, [Historic Pittsburgh](https://historicpittsburgh.org/maps-hopkins/1872-atlas-pittsburgh-allegheny)_
+_<span style="font-size:0.8em !important;">Image: Desatured detail of the index map from the 1872 Atlas of the cities of Pittsburgh, Allegheny, and the adjoining boroughs, [Historic Pittsburgh](https://historicpittsburgh.org/maps-hopkins/1872-atlas-pittsburgh-allegheny) </span>_
 
 ----------
 
