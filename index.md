@@ -41,6 +41,8 @@ Participants:
 
 Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122); Passcode: **761707**
 
+<img src="arcgis-1092.jpg" alt="Desaturated ArcGIS Pro screenshot" style="max-width: 100%; border: 1px solid black !important;">
+
 ----------
 
 ## <a name="research"></a>GIS Research Forum  
