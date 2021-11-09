@@ -48,7 +48,7 @@ Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122)
 
 ## <a name="research"></a>GIS Research Forum  
 
-**Monday, November 17, 11:30am–12:30pm ET**\
+**Wednesday, November 17, 11:30am–12:30pm ET**\
 Moderator: **Susan Lucas** (Urban Studies)
 
 Presenters:  
