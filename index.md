@@ -8,7 +8,8 @@ GIS Day (November 17) is an international celebration of this scientific framewo
 
 * [GIS and the Ghost Map](#ghost), Thurs Nov. 11, 2–3:30 pm ET
 * [Virtual Career Panel](#career), Fri Nov. 12, 1–2 pm ET 
-* [GIS Research Forum](#research), Wed Nov. 17, 11:30am–12:30pm ET
+* [World History, Historical Maps, and GIS](#world-history), Tues Nov. 16, 11am–12pm
+* [GIS Research Forum](#research), Weds Nov. 17, 11:30am–12:30pm ET
 * [Space and Film: Geography as a Major Actor (exhibit)](#film), starting Mon Nov. 8
 
 More information about each event is below.
@@ -43,6 +44,14 @@ Participants:
 Online: [https://pitt.zoom.us/j/95713642122](https://pitt.zoom.us/j/95713642122); Passcode: **761707**
 
 <img src="arcgis-1092.jpg" alt="Desaturated ArcGIS Pro screenshot" style="max-width: 100%; border: 1px solid black !important;">
+
+----------
+
+## <a name="world-history"></a>World History, Historical Maps, and GIS
+
+> This event will introduce attendees to the wealth of information contained in historic maps. We will discuss sources of obtaining digital historic maps, how to read them, and the ways in which they can be digitized and used for research, analysis, and visualization with geographic information system (GIS) maps. The conversation will be led by World History Center Director, [Ruth Mostern](https://www.worldhistory.pitt.edu/people/ruth-mostern), WHC Postdoctoral Fellow in Digital World History, [Susan Grunewald](https://www.worldhistory.pitt.edu/people/ant-24), and WHC Research Affiliate, [Kathy Hart](https://www.worldhistory.pitt.edu/people/ant-1). 
+
+Register for the virtual event here: [https://pitt.zoom.us/meeting/register/tJUvcu6gqDssH90kksOhGdzNO912AKH7FyLt](https://pitt.zoom.us/meeting/register/tJUvcu6gqDssH90kksOhGdzNO912AKH7FyLt)
 
 ----------
 
